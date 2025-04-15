@@ -205,5 +205,3 @@ public class rrou
 		}
 	}
 }
-//test thrd.java without the constructor
-//javap program name- java deconstructor
